@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <head>
     <title>Hello World</title>
-    <meta chatset="UTF-8" />
+    <meta charset="UTF-8" />
 </head>
 <body>
     <h1>Hello World</h1>
